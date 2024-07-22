@@ -8,7 +8,7 @@
 </div>
 
 - **ReactJS**
-- **Recoil** Là Thư Viện Quản Lý Trạng Thái (State Management Library) và Giống **Redux**
+- **Recoil** Là Thư Viện Quản Lý Trạng Thái (State Management Library) và Giống ****Redux****
 - **Vite.js**
 
 # RUN 
