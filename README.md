@@ -8,7 +8,7 @@
 </div>
 
 - **ReactJS**
-- **Recoil**
+- **Recoil** Là Thư Viện Quản Lý Trạng Thái (State Management Library) Được Phát Triển Bởi Facebook và Giống **Redux**
 - **Vite.js**
 
 # RUN 
