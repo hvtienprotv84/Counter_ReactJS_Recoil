@@ -1,0 +1,96 @@
+.shadow__btn {
+    padding: 10px 20px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+  }
+  
+  .shadow__btn {
+    background: rgb(0,140,255);
+    box-shadow: 0 0 25px rgb(0,140,255);
+  }
+  
+  .shadow__btn:hover {
+    box-shadow: 0 0 5px rgb(0,140,255),
+                0 0 25px rgb(0,140,255),
+                0 0 50px rgb(0,140,255),
+                0 0 100px rgb(0,140,255);
+  }
+
+  /*=================*/
+
+  .shadow__btn {
+    padding: 10px 20px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+
+  }
+  
+  .shadow__btn {
+    background: rgb(0,140,255);
+    box-shadow: 0 0 25px rgb(0,140,255);
+  }
+  
+  .shadow__btn:hover {
+    box-shadow: 0 0 5px rgb(0,140,255),
+                0 0 25px rgb(0,140,255),
+                0 0 50px rgb(0,140,255),
+                0 0 100px rgb(0,140,255);
+  }
+
+  .container_logo{
+    position: absolute;
+    top: 0;
+    margin-top: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #img1{
+    width: 350px;
+    animation: logoAnimation 2s infinite;
+}
+
+@keyframes logoAnimation {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-30px); /* Điều chỉnh khoảng cách lên xuống tùy ý */
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+  #img2{
+    width: 700px;
+    animation: logoAnimation 2s infinite;
+}
+
+@keyframes logoAnimation {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-30px); /* Điều chỉnh khoảng cách lên xuống tùy ý */
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
