@@ -6,3 +6,11 @@
 <div align="center">
   <h1>Counter - Bộ Đếm - ReactJS - Recoil</h1>
 </div>
+
+- **ReactJS**
+- **Recoil**
+- **Vite.js**
+
+# RUN 
+- `npm install`
+- `npm run dev`
